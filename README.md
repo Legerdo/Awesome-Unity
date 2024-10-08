@@ -24,6 +24,8 @@ Obfuscator(Deprecated) 기존 구매자만 사용가능, 더 이상 유지보수
 
 Mfuscator: IL2CPP Encryption - https://assetstore.unity.com/packages/tools/utilities/mfuscator-il2cpp-encryption-256631
 
+Warden: IL2CPP Anti-Cheat - https://assetstore.unity.com/packages/tools/utilities/warden-il2cpp-anti-cheat-273777
+
 Il2cppEncrtypt - https://gitee.com/tangziyunkeji/Il2cppEncrtypt
 
 PixelSecurityToolkit - https://github.com/TinyPlay/PixelSecurityToolkit
