@@ -9,6 +9,7 @@ TODO -  디스코드(https://discord.gg/PdjGvdtyGa) 에 정리한 내용을 바�
     - [보안-리소스](#보안-리소스)
     - [보안-서비스](#보안-서비스)
     - [보안-라이센스](#보안-라이센스)
+    - [보안-포스트](#보안-포스트)
 
 # 보안
 
@@ -29,6 +30,9 @@ Warden: IL2CPP Anti-Cheat - https://assetstore.unity.com/packages/tools/utilitie
 Il2cppEncrtypt - https://gitee.com/tangziyunkeji/Il2cppEncrtypt
 
 PixelSecurityToolkit - https://github.com/TinyPlay/PixelSecurityToolkit
+
+Dotnet</br>
+System.Security - https://learn.microsoft.com/ko-kr/dotnet/api/system.security</br>
 
 ## 보안-리소스
 
@@ -61,3 +65,11 @@ LicenceMe - https://assetstore.unity.com/packages/tools/utilities/licenceme-1328
 Google Play License Check - https://assetstore.unity.com/packages/tools/integration/google-play-license-check-227317
 
 Easy Lock - https://assetstore.unity.com/packages/tools/utilities/easy-lock-271699
+
+## 보안-포스트
+
+https://qiita.com/waiwaiunity/items/776e1e60ac4183afb75c
+
+https://qiita.com/hanaaaaaachiru/items/04760d8c6cbda167cb27
+
+https://qiita.com/s_ryuuki/items/04e136cf08328a835654
