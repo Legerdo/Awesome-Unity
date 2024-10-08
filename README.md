@@ -1,6 +1,6 @@
 # Awesome-Unity
 
-TODO -  디스코드(https://discord.gg/PdjGvdtyGa)에 정리한 내용을 바탕으로 작성중...
+TODO -  디스코드(https://discord.gg/PdjGvdtyGa) 에 정리한 내용을 바탕으로 작성중...
 
 # 목차
 
