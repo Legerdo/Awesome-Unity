@@ -80,3 +80,14 @@ https://qiita.com/s_ryuuki/items/04e136cf08328a835654
 # AI
 
 ## AI-BehaviorTree
+
+Behavior - https://docs.unity3d.com/Packages/com.unity.behavior@1.0/manual/index.html
+
+Behavior Designer - Behavior Trees for Everyone - https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277
+
+NodeCanvas - https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914
+
+Schema - https://github.com/acdamiani/schema
+
+AI Tree - https://assetstore.unity.com/packages/tools/behavior-ai/ai-tree-behavior-trees-for-unity-229578
+
