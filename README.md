@@ -13,7 +13,9 @@ TODO -  디스코드(https://discord.gg/PdjGvdtyGa) 에 정리한 내용을 바�
  
 - [AI](#AI)
     - [AI-BehaviorTree](#AI-BehaviorTree)
-  
+    - [AI-FSM](#AI-FSM)
+    - [AI-UtilityAI](#AI-UtilityAI)
+      
 # 보안
 
 ## 보안-코드
@@ -91,3 +93,20 @@ Schema - https://github.com/acdamiani/schema
 
 AI Tree - https://assetstore.unity.com/packages/tools/behavior-ai/ai-tree-behavior-trees-for-unity-229578
 
+## AI-FSM
+
+UnityHFSM - https://github.com/Inspiaaa/UnityHFSM
+
+Unity-Hierarchical-Finite-State-Machine - https://github.com/AlexBlackfrost/Hierarchical-Finite-State-Machine/tree/main
+
+Invector FSM AI Template - https://assetstore.unity.com/packages/tools/behavior-ai/invector-fsm-ai-template-123618
+
+Rapid State Machine - https://assetstore.unity.com/packages/tools/behavior-ai/rapid-state-machine-227279
+
+## AI-Utility AI
+
+Goap - https://assetstore.unity.com/packages/tools/behavior-ai/goap-252687
+
+Unity Utility AI - https://github.com/adammyhre/Unity-Utility-AI
+
+Utility Designer - https://assetstore.unity.com/packages/tools/behavior-ai/utility-designer-combining-utility-ai-and-behaviour-trees-257126#description
