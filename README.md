@@ -1,7 +1,5 @@
 # Awesome-Unity
 
-TODO -  디스코드(https://discord.gg/PdjGvdtyGa) 에 정리한 내용을 바탕으로 작성중...
-
 # 목차
 
 - [보안](#보안)
@@ -15,7 +13,10 @@ TODO -  디스코드(https://discord.gg/PdjGvdtyGa) 에 정리한 내용을 바�
     - [AI-BehaviorTree](#AI-BehaviorTree)
     - [AI-FSM](#AI-FSM)
     - [AI-UtilityAI](#AI-UtilityAI)
-      
+
+- [Tool](#Tool)
+    - [Tool-DI](#Tool-DI)
+    
 # 보안
 
 ## 보안-코드
@@ -110,3 +111,21 @@ Goap - https://assetstore.unity.com/packages/tools/behavior-ai/goap-252687
 Unity Utility AI - https://github.com/adammyhre/Unity-Utility-AI
 
 Utility Designer - https://assetstore.unity.com/packages/tools/behavior-ai/utility-designer-combining-utility-ai-and-behaviour-trees-257126#description
+
+# Tool
+
+## Tool-DI
+
+VContainer - https://github.com/hadashiA/VContainer
+
+Reflex - https://github.com/gustavopsantos/reflex
+
+OneShot - https://github.com/quabug/OneShot
+
+AlchemyBow - https://assetstore.unity.com/packages/tools/utilities/alchemybow-core-dependency-injection-framework-270338
+
+Jeringa - https://assetstore.unity.com/packages/tools/utilities/jeringa-dependency-injector-296417
+
+GruInject - https://assetstore.unity.com/packages/tools/utilities/gruinject-294076#content
+
+Tarject - https://assetstore.unity.com/packages/tools/utilities/tarject-dependency-injection-framework-289571
