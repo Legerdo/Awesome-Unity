@@ -14,6 +14,9 @@
     - [AI-FSM](#AI-FSM)
     - [AI-UtilityAI](#AI-UtilityAI)
 
+- [VR](#VR)
+    - [VR-Framework](#VR-Framework)
+
 - [Tool](#Tool)
     - [Tool-DI](#Tool-DI)
     
@@ -111,6 +114,24 @@ Goap - https://assetstore.unity.com/packages/tools/behavior-ai/goap-252687
 Unity Utility AI - https://github.com/adammyhre/Unity-Utility-AI
 
 Utility Designer - https://assetstore.unity.com/packages/tools/behavior-ai/utility-designer-combining-utility-ai-and-behaviour-trees-257126#description
+
+# VR
+
+## VR-Framework
+
+VR Interaction Framework - https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066
+
+Hurricane VR - https://assetstore.unity.com/packages/tools/physics/hurricane-vr-physics-interaction-toolkit-177300
+
+VR Physics Player Controller - https://assetstore.unity.com/packages/tools/physics/vr-physics-player-controller-185521
+
+VR Builder - https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913
+
+Oculus - https://assetstore.unity.com/publishers/25353
+
+MixedRealityToolkit - https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity
+
+Auto Hand - https://assetstore.unity.com/packages/tools/game-toolkits/auto-hand-vr-interaction-165323
 
 # Tool
 
