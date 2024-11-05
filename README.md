@@ -108,6 +108,8 @@ Invector FSM AI Template - https://assetstore.unity.com/packages/tools/behavior-
 
 Rapid State Machine - https://assetstore.unity.com/packages/tools/behavior-ai/rapid-state-machine-227279
 
+statemachines - https://assetstore.unity.com/packages/tools/utilities/statemachines-229841
+
 ## AI-Utility AI
 
 Goap - https://assetstore.unity.com/packages/tools/behavior-ai/goap-252687
