@@ -21,6 +21,7 @@
     - [Tool-DI](#Tool-DI)
     - [Tool-Tween](#Tool-Tween)
     - [Tool-VisualScripting](#Tool-VisualScripting)
+    - [Tool-Event](#Tool-Event)
           
 # 보안
 
@@ -172,3 +173,19 @@ flowcanvas - https://assetstore.unity.com/packages/tools/visual-scripting/flowca
 uNode - https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176
 
 Sequine - https://assetstore.unity.com/packages/tools/visual-scripting/sequine-sequencing-animation-and-visual-scripting-260083
+
+## Tool-Event
+
+MessagePipe - https://github.com/Cysharp/MessagePipe
+
+VitalRouter - https://github.com/hadashiA/VitalRouter
+
+ZeroMessenger - https://github.com/AnnulusGames/ZeroMessenger
+
+UniFlux - https://github.com/xavierarpa/UniFlux
+
+Signals - https://github.com/supyrb/signals
+
+UltEvents - https://assetstore.unity.com/packages/tools/gui/ultevents-111307
+
+Extended Events - https://assetstore.unity.com/packages/tools/visual-scripting/extended-events-216555
